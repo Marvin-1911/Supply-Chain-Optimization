@@ -52,4 +52,3 @@ $$\bar{y} = \frac{\sum (Latitude_i \cdot Quantity_i)}{\sum Quantity_i}$$
 3.  **Run Analysis:** Execute the `.ipynb` file in PyCharm or any Jupyter environment.
 
 ---
-*Developed as a Strategic Case Study for Supply Chain Consultancy.*
